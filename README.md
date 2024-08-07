@@ -1,1 +1,1 @@
-# simple_calculator
+A simple calculator in java language.
